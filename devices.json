@@ -1,0 +1,74 @@
+{
+    "items_count" : 4,
+    "items" : [
+        {
+            "device" : 
+            { 
+            "type" : "computer",
+            "name" : "Matebook",
+            "company" : "Huawei",
+            "inches" : 13,
+            "stock" : "true",
+            "price" : "780€",
+            "internal_info" : "C:\\Documents\\files\\matebook.json"
+            }
+        },
+        {
+            "device" : 
+            { 
+            "type" : "computer",
+            "name" : "Titan",
+            "company" : "Slimbook",
+            "inches" : 15.6,
+            "stock" : "true",
+            "price" : "1949€",
+            "slogans" :
+                [
+                    {
+                        "slogan" : "Slimbook Titan: Unleash Power in Every Pixel"
+                    },
+                    {
+                        "slogan" : "Slimbook Titan: Powerhouse Performance"
+                    }
+                ]
+            }
+        },
+        {
+            "device" : 
+            { 
+            "type" : "tablet",
+            "name" : "Matepad",
+            "company" : "Huawei",
+            "inches" : 10.4,
+            "stock" : "false",
+            "price" : null,
+            "characteristics": "" 
+            }
+        },
+        {
+            "device" : 
+            { 
+            "type" : "computer",
+            "name" : "P50 Socket",
+            "company" : "Huawei",
+            "inches" : 9,
+            "stock" : "true",
+            "price" : "999€",
+            "discount" : "3%",
+            "characteristics" : 
+                [
+                    {
+                        "characteristic" : "5000mhA battery"
+                    },
+                    {
+                        "characteristic" : "Super AMOLED Plus"
+                    },
+                    {
+                        "characteristic" : "USB-C"
+                    }
+
+                ]
+            }
+        }
+    ]
+}

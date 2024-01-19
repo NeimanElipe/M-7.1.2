@@ -1,0 +1,77 @@
+{
+    "Pokemons": 
+    [
+        {
+            "id": "#0383",
+            "nom" : "Groudon",
+            "pes": {
+                "Pesatge" : 950.0,
+                "mesura" : "Kg"
+            },
+            "altura" : {
+                "alçada": 3.5,
+                "unitat": "m"
+            },
+            "estadistiques": [
+                {
+                
+                    "velocitat": 2,
+                    "fortalesa": 5,
+                    "precisio": 5,
+                    "resistencia": 5
+                }
+            ],
+            "moviments" : [
+                {
+                    "nom" : "Poder pasado",
+                    "descripcio": "Causa daño y tiene probabilidad del 10% de aumentar las estadísticas.",
+                    "potencia": 60,
+                    "contacte": false
+                }
+            ],
+            "url": "https://www.wikidex.net/wiki/Archivo:Groudon.png",
+            "evolucions": [
+                {
+                    "id_evolucio": null,
+                    "nom_evolucio": null
+                }
+            ]
+        },
+        {
+            "id": "#0384",
+            "nom" : "Rayquaza",
+            "pes": {
+                "Pesatge" : 206.5,
+                "mesura" : "Kg"
+            },
+            "altura" : {
+                "alçada": 7,
+                "unitat": "m"
+            },
+            "estadistiques": [
+                {
+                
+                    "velocitat": 5,
+                    "fortalesa": 5,
+                    "precisio": 3,
+                    "resistencia": 5
+                }
+            ],
+            "moviments" : [
+                {
+                    "nom" : "Ráfagas escamas",
+                    "descripcio": "Golpea al objetivo de 2 a 5 veces en un mismo turno.",
+                    "potencia": 25,
+                    "contacte": false
+                }
+            ],
+            "url": "https://www.wikidex.net/wiki/Archivo:Rayquaza.png",
+            "evolucions": [
+                {
+                    "id_evolucio": null,
+                    "nom_evolucio": null
+                }
+            ]
+        }
+    ]
+}
